@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: open-api-example
+springdoc:
+  packagesToScan: net.elau.example.open_api_example.web.controller
